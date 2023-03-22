@@ -1,3 +1,8 @@
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="Logo_PreciousBoys.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
 <a name="Hello Microverse Project"></a>
 
 # 📗 Table of Contents
@@ -69,7 +74,6 @@ You can deploy this project using visual studio.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## 👥 Authors <a name="authors"></a>
 
 
@@ -81,13 +85,17 @@ You can deploy this project using visual studio.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Features -->
+<!-- FUTURE FEATURES -->
 
-### Key Features <a name="key-features"></a>
+## 🔭 Future Features <a name="future-features"></a>
 
-- **[HTML5]**
-- **[CSS3]**
-- **[Node.js]**
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Youtube channel]**
+- [ ] **[Blog with tips]**
+- [ ] **[News section]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,10 +113,14 @@ If you like this project you can contact the author througt the above media link
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse and all the persons that got in touch with me while we were working on this project
+
+Code Reviwers: 
+
+Olaoye Oluwatoyin Abayomi. git@github.com: https://github.com/AbayomiOlaoye
+Abel Gebeyehu  git@github.com: https://github.com/AbelG101
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
