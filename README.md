@@ -89,8 +89,6 @@ You can deploy this project using visual studio.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[Youtube channel]**
 - [ ] **[Blog with tips]**
 - [ ] **[News section]**
@@ -119,8 +117,8 @@ I would like to thank Microverse and all the persons that got in touch with me w
 
 Code Reviwers: 
 
-Olaoye Oluwatoyin Abayomi. git@github.com: https://github.com/AbayomiOlaoye
-Abel Gebeyehu  git@github.com: https://github.com/AbelG101
+- [ ] **Olaoye Oluwatoyin Abayomi. git@github.com: https://github.com/AbayomiOlaoye**
+- [ ] **Abel Gebeyehu  git@github.com: https://github.com/AbelG101**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
