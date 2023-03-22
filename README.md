@@ -6,7 +6,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -82,7 +81,15 @@ You can deploy this project using visual studio.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Features -->
 
+### Key Features <a name="key-features"></a>
+
+- **[HTML5]**
+- **[CSS3]**
+- **[Node.js]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
